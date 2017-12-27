@@ -1,3 +1,3 @@
 # branchmarge
 
-Master branch
+Slave branch
